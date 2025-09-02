@@ -1,19 +1,25 @@
 <h1 align="center">Hi, I'm Kashfur Rahman</h1>
-<h3 align="center">A passionate Python Developer and Data Scientist from India</h3>
+<h3 align="center">A passionate Python Developer and Data Scientist</h3>
+
+🎓 **Computer Science Graduate**  
+📍 Hyderabad, India  
+- I build projects that combine **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Data Engineering** to create meaningful, real-world solutions.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskashfur&label=Profile%20views&color=0e75b6&style=flat" alt="itskashfur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itskashfur" alt="itskashfur" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 📝 I regularly write articles on [www.kashfurrahman.blogspot.com](www.kashfurrahman.blogspot.com)
+- 🌱 I’m currently learning **AI, ML, and Data Science**
 
 - 💬 Ask me about **Python, Java, LeetCode, OpenCV, etc.**
 
+- 📝 I regularly write articles on [www.kashfurrahman.blogspot.com](www.kashfurrahman.blogspot.com)
+
 - 📫 How to reach me **itskashfur@gmail.com**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **I am not funny but Always learning - Always building. 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,9 +42,30 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itskashfur&show_icons=true&locale=en&layout=compact" alt="itskashfur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itskashfur&show_icons=true&locale=en" alt="itskashfur" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itskashfur&show_icons=true&locale=en" alt="itskashfur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itskashfur&" alt="itskashfur" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/itskashfur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itskashfur" /></a><a href="https://ko-fi.com/itskashfur"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itskashfur" /></a></p><br><br>
+<!--
+## 🏆 GitHub Trophies  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=itskashfur&theme=onedark&row=1&column=6)
+
+-->
+
+## 📈 Contribution Graph
+
+![Kashfur's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskashfur&theme=react-dark)
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/itskashfur](http://linkedin.com/in/itskashfur))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itskashfur@gmail.com)  
+
+---
+⭐ *Thanks for visiting! Feel free to explore my repositories and connect if something catches your eye.*
+
+
+<h3 align="left">What! 🤷‍♂️, Support😒:</h3>
+<p><a href="https://www.buymeacoffee.com/itskashfur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itskashfur" /></a>
