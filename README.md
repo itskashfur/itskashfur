@@ -46,7 +46,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itskashfur&show_icons=true&locale=en" alt="itskashfur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itskashfur&" alt="itskashfur" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itskashfur&" alt="itskashfur" /></p>-->
 
 <!--
 ## 🏆 GitHub Trophies  
@@ -56,17 +56,12 @@
 -->
 
 ## 📈 Contribution Graph
-
 ![Kashfur's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskashfur&theme=react-dark)
-
----
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itskashfur/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itskashfur@gmail.com)  
 
----
 ⭐ *Thanks for visiting! Feel free to explore my repositories and connect if something catches your eye.*
-
 
 <h3 align="left">What!🤷‍♂️, Support😒:</h3>
 <p><a href="https://www.buymeacoffee.com/itskashfur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itskashfur" /></a>
