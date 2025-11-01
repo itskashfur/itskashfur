@@ -70,7 +70,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itskashfur&show_icons=true&locale=en" alt="itskashfur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itskashfur&" alt="itskashfur" /></p>
+<p><img align="center" style: height: 40px; length: 200px; src="https://github-readme-streak-stats.herokuapp.com/?user=itskashfur&" alt="itskashfur" /></p>
 
 <!--
 ## 🏆 GitHub Trophies  
