@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Java, LeetCode, OpenCV, etc.**
 
-- 📝 I regularly write articles on [Kashfur Rahman](https://www.kashfurrahman.blogspot.com)
+- 📝 I regularly write articles on [Kashfur Rahman](https://kashfurrahman.blogspot.com/)
 
 - 📫 How to reach me **itskashfur@gmail.com**
 
