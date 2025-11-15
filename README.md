@@ -72,6 +72,7 @@
 
 <p><img align="center" style: height: 40px; length: 200px; src="https://github-readme-streak-stats.herokuapp.com/?user=itskashfur&" alt="itskashfur" /></p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/itskashfur)
 <!--
 ## 🏆 GitHub Trophies  
 
