@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskashfur&label=Profile%20views&color=0e75b6&style=flat" alt="itskashfur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itskashfur" alt="itskashfur" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=itskashfur)](https://github.com/itskashfur/github-profile-trophy)
 
 - 🌱 I’m currently learning **AI, ML, and Data Science**
 
@@ -73,11 +73,6 @@
 <p><img align="center" style: height: 40px; length: 200px; src="https://github-readme-streak-stats.herokuapp.com/?user=itskashfur&" alt="itskashfur" /></p>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/itskashfur?theme=dark&font=source_code_pro&extension=null)
-
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=itskashfur&theme=onedark&row=1&column=6)
-
 
 ## 📈 Contribution Graph
 ![Kashfur's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskashfur&theme=react-dark)
