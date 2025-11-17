@@ -1,10 +1,13 @@
 <h1 align="center">Hi👋, I'm Kashfur Rahman</h1>
 <h3 align="center">A passionate Software Engineer who try to learn something everyday and deploy on GitHub 😁</h3>
 
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25" />
+
 🎓 **Computer Science Graduate**  
 📍 Hyderabad, India  
 - I build projects that combine **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Data Engineering** to create meaningful, real-world solutions.
 - My **Portfolio** [Portfolio](https://itskashfur.netlify.app/)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskashfur&label=Profile%20views&color=0e75b6&style=flat" alt="itskashfur" /> </p>
