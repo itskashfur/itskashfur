@@ -71,7 +71,7 @@
 ![MS SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itskashfur&show_icons=true&locale=en" alt="itskashfur" /></p>
+![itskashfur's Stats](https://github-readme-stats.vercel.app/api?username=itskashfur&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <p><img align="center" style: height: 40px; length: 200px; src="https://github-readme-streak-stats.herokuapp.com/?user=itskashfur&" alt="itskashfur" /></p>
 
