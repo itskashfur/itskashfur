@@ -75,7 +75,7 @@
 
 ![itskashfur's Stats](https://github-readme-stats.vercel.app/api?username=itskashfur&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itskashfur)](https://git.io/streak-stats)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/itskashfur?theme=dark&font=source_code_pro&extension=null)
 
