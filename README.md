@@ -7,6 +7,7 @@
 📍 Hyderabad, India  
 - I build projects that combine **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Data Engineering** to create meaningful, real-world solutions.
 - My **Portfolio** [Portfolio](https://itskashfur.netlify.app/)
+- My **Resume** [Resume](https://itskashfur.netlify.app/)
 
 
 
