@@ -72,12 +72,12 @@
 ![MS SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
-![itskashfur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itskashfur&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<!--![itskashfur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itskashfur&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![itskashfur's Stats](https://github-readme-stats.vercel.app/api?username=itskashfur&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itskashfur)](https://git.io/streak-stats)
-
+-->
 ![LeetCode Stats](https://leetcode.card.workers.dev/itskashfur?theme=dark&font=source_code_pro&extension=null)
 
 ## 📈 Contribution Graph
