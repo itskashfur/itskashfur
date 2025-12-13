@@ -9,8 +9,6 @@
 - My **Portfolio** [Portfolio](https://itskashfur.netlify.app/)
 - My **Resume** [Resume](https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit?usp=sharing)
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskashfur&label=Profile%20views&color=0e75b6&style=flat" alt="itskashfur" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itskashfur)](https://github.com/itskashfur/github-profile-trophy)
