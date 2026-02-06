@@ -1,7 +1,7 @@
 <h1 align="center">Hi!, I'm Kashfur Rahman</h1>
 <h3 align="center">A passionate Software Engineer who try to learn something everyday and deploy on GitHub 😁</h3>
 
-<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25" />
+<img width="2000" height="400" align="center" alt="image" src="https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25" />
 
 🎓 **Computer Science Graduate**  
 📍 Hyderabad, India  
@@ -62,8 +62,6 @@
  <a href="https://github.com/itskashfur"><img alt="Github" title="Kashfur Rahman Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p> 
 
-⭐*Thanks for visiting! Feel free to explore my repositories and connect if something catches your eye.*
-
 <p align="center">
     <a href="https://github.com/">
         <img src="https://komarev.com/ghpvc/?username=itskashfur" alt="Kashfur Rahman" />
@@ -75,6 +73,8 @@
         <img height="20" src="https://img.shields.io/github/stars/itskashfur?label=stars&logo=github" />
 	</a>
 </p>
+<h4 align="center">⭐ *Thanks for visiting! Feel free to explore my repositories and connect if something catches your eye.*</h4>
+
 
 <!-- <h3 align="left">What!🤷‍♂️, Support😒:</h3> -->
 <!-- <p><a href="https://www.buymeacoffee.com/itskashfur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itskashfur" /></a> -->
