@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskashfur&label=Profile%20views&color=0e75b6&style=flat" alt="itskashfur" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itskashfur)](https://github.com/itskashfur/github-profile-trophy)
-
 - 🌱 I’m currently learning **AI, ML, and Data Science**
 
 - 💬 Ask me about **Python, Java, LeetCode, OpenCV, etc.**
