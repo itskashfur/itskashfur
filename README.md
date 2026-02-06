@@ -8,7 +8,6 @@
 - I build projects that combine **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Data Engineering** to create meaningful, real-world solutions.
 - My **Portfolio** [Portfolio](https://itskashfur.netlify.app/)
 - My **Resume** [Resume](https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit?usp=sharing)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itskashfur&label=Profile%20views&color=0e75b6&style=flat" alt="itskashfur" /> </p>
 
 - 🌱 I’m currently learning **AI, ML, and Data Science**
 
@@ -45,6 +44,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itskashfur/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itskashfur@gmail.com)  
 
 ⭐*Thanks for visiting! Feel free to explore my repositories and connect if something catches your eye.*
+
+<p align="center">
+    <a href="https://github.com/">
+        <img src="https://komarev.com/ghpvc/?username=itskashfur" alt="Kashfur Rahman" />
+    </a>
+    <a href="https://github.com/jaydeep-yadav">
+        <img height="20" src="https://img.shields.io/github/followers/itskashfur?label=follow&logo=github" />
+	</a>
+	 <a href="https://github.com/jaydeep-yadav">
+        <img height="20" src="https://img.shields.io/github/stars/itskashfur?label=stars&logo=github" />
+	</a>
+</p>
 
 <!-- <h3 align="left">What!🤷‍♂️, Support😒:</h3> -->
 <!-- <p><a href="https://www.buymeacoffee.com/itskashfur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itskashfur" /></a> -->
