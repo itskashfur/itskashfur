@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Kashfur Rahman</h1>
+<h1 align="center">Hi!, I'm Kashfur Rahman</h1>
 <h3 align="center">A passionate Software Engineer who try to learn something everyday and deploy on GitHub 😁</h3>
 
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25" />
@@ -26,15 +26,11 @@
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-E34F26?style=flat&logo=flask&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 #### 🖥️ Backend & DevOps
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
