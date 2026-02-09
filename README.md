@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kashfur+Rahman;Python+Developer+%7C+Python+Full+Stack+Developer" alt="Typing SVG" />
 </p>
-
 <!-- ===================== BANNER ===================== -->
 ![banner](https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25)
 <p align="center">
@@ -103,7 +102,7 @@ To contribute as a Software Engineer in a growth-oriented organization by levera
 
 > These projects demonstrate real-world application of engineering principles.
 
-<img height="250px" width="250px" align="right" alt="Image" src="https://www.lystloc.com/blog/wp-content/uploads/2022/11/ezgif.com-gif-maker-6.webp"/>
+<!-- <img height="250px" width="250px" align="right" alt="Image" src="https://www.lystloc.com/blog/wp-content/uploads/2022/11/ezgif.com-gif-maker-6.webp"/> -->
 
 ### 📌 1. Automated Attendance System (OpenCV)
 🔹 Face recognition-based attendance  
@@ -171,9 +170,9 @@ To contribute as a Software Engineer in a growth-oriented organization by levera
 
 ---
 
-## 📊 GitHub Analytics
 
-<!-- <p>
+
+<!-- <p> ## 📊 GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=itskashfur&show_icons=true&theme=dark&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskashfur&layout=compact&theme=dark&hide_border=true" width="48%"/>
