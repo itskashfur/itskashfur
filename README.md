@@ -3,8 +3,6 @@
 
 <img width="2000" height="400" align="center" alt="image" src="https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25" />
 
-🎓 **Computer Science Graduate**  
-📍 Hyderabad, India 
 
 ## 👨‍💻 About Me
 
@@ -15,8 +13,8 @@
   alt="Coding GIF"
 />
 
-🎓 Computer Science Student  
-📍 India  
+🎓 **Computer Science Graduate**  
+📍 Hyderabad, India 
 
 - 💡 Passionate about Python & Software Development  
 - 📚 Learning Data Science & AI  
@@ -25,16 +23,10 @@
 
 - My **Portfolio** [Portfolio](https://itskashfur.netlify.app/)
 - My **Resume** [Resume](https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit?usp=sharing)
-
-- 🌱 I’m currently learning **AI, ML, and Data Science**
-
-- 💬 Ask me about **Python, Java, LeetCode, OpenCV, etc.**
-
 - 📝 I regularly write articles on [Kashfur Rahman](https://kashfurrahman.blogspot.com/)
-
 - 📫 How to reach me **itskashfur@gmail.com**
-
 - ⚡ Fun fact **I am not funny but Always learning - Always building. 🚀**
+
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
