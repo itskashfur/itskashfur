@@ -4,8 +4,25 @@
 <img width="2000" height="400" align="center" alt="image" src="https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25" />
 
 🎓 **Computer Science Graduate**  
-📍 Hyderabad, India  
-- I build projects that combine **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Data Engineering** to create meaningful, real-world solutions.
+📍 Hyderabad, India 
+
+## 👨‍💻 About Me
+
+<img 
+  align="right" 
+  width="280" 
+  src="https://github.com/itskashfur/itskashfur/blob/main/GIF.gif" 
+  alt="Coding GIF"
+/>
+
+🎓 Computer Science Student  
+📍 India  
+
+- 💡 Passionate about Python & Software Development  
+- 📚 Learning Data Science & AI  
+- 🛠️ Building real-world projects  
+- 🎯 Future Software Engineer  
+
 - My **Portfolio** [Portfolio](https://itskashfur.netlify.app/)
 - My **Resume** [Resume](https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit?usp=sharing)
 
