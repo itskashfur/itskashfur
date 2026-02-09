@@ -1,76 +1,9 @@
-<h1 align="center">Hi!, I'm Kashfur Rahman</h1>
-<h3 align="center">A passionate Software Engineer who try to learn something everyday and deploy on GitHub 😁</h3>
-
-<img width="2000" height="400" align="center" alt="image" src="https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25" />
-
-
-## 👨‍💻 About Me
-
-<img 
-  align="right" 
-  width="280" 
-  src="https://github.com/itskashfur/itskashfur/blob/main/GIF.gif" 
-  alt="Coding GIF"
-/>
-
-🎓 **Computer Science Graduate**  
-📍 Hyderabad, India 
-
-- 💡 Passionate about Python & Software Development  
-- 📚 Learning Data Science & AI  
-- 🛠️ Building real-world projects  
-- 🎯 Future Software Engineer  
-
-- My **Portfolio** [Portfolio](https://itskashfur.netlify.app/)
-- My **Resume** [Resume](https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit?usp=sharing)
-- 📝 I regularly write articles on [Kashfur Rahman](https://kashfurrahman.blogspot.com/)
-- 📫 How to reach me **itskashfur@gmail.com**
-- ⚡ Fun fact **I am not funny but Always learning - Always building. 🚀**
-
-#### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
-
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-E34F26?style=flat&logo=flask&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-#### 🖥️ Backend & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-#### 💾 Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-## 📈 Contribution Graph
-![Kashfur's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskashfur&theme=react-dark)
-
-<h2 align="center"> Connect with Me</h2>
-
 <p align="center">
-  <a href="https://linkedin.com/in/itskashfur"><img alt="Linkedin" title="Kashfur Rahman" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<!-- <a href="http://discordapp.com/users/757608221191176263"><img alt="Discord" title="Jaydeep Yadav Discord Profile" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-		badge&logo=discord&logoColor=white"></a> -->
-  <!-- <a href="https://www.snapchat.com/add/iamalbeedo"><img alt="Kashfur Rahman" title="Kashfur Rahman" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a> -->
-  <!-- <a href="https://facebook.com/killerboy.jy"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> -->
-  <a href="https://instagram.com/itskashfur"><img alt="Instagram" title="Kashfur Rahman" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/itskashfur"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  <a href="https://leetcode.com/itskashfur/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
- </p>
- <p align="center">
-  <a href="mailto:itskashfur@gmail.com"><img alt="Gmail" title="Kashfur Rahman Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://t.me/iamalbeedo"><img alt="Telegram" title="Kashfur Rahman Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="http://twitter.com/itskashfur"><img alt="Twitter" title="Kashfur Rahman Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<!-- <a href="https://www.cloudskillsboost.google/public_profiles/7d84e454-3e99-4e55-95bf-5888926e1a5e"><img alt="Qwiklabs" title="Jaydeep Yadav Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kashfur+Rahman;Python+Developer+%7C+Python+Full+Stack+Developer" alt="Typing SVG" />
 </p>
-<p align="center">
-<a href="https://dev.to/itskashfur"><img alt="Dev.to" title="Kashfur Rahman Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
- <a href="https://github.com/itskashfur"><img alt="Github" title="Kashfur Rahman Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-</p> 
 
+<!-- ===================== BANNER ===================== -->
+![banner](https://github.com/user-attachments/assets/073b4779-9f13-42e2-a380-0b3048c19a25)
 <p align="center">
     <a href="https://github.com/">
         <img src="https://komarev.com/ghpvc/?username=itskashfur" alt="Kashfur Rahman" />
@@ -82,8 +15,216 @@
         <img height="20" src="https://img.shields.io/github/stars/itskashfur?label=stars&logo=github" />
 	</a>
 </p>
-<h4 align="center">⭐ *Thanks for visiting! Feel free to explore my repositories and connect if something catches your eye.*</h4>
 
+<!-- ===================== TYPING INTRO ===================== -->
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Kashfur+Rahman;Software+Engineer+|+Python+Developer+|+AI+Explorer;Building+Scalable+and+Meaningful+Systems;Focused+on+Growth+and+Impact" />
+</p> -->
 
-<!-- <h3 align="left">What!🤷‍♂️, Support😒:</h3> -->
-<!-- <p><a href="https://www.buymeacoffee.com/itskashfur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itskashfur" /></a> -->
+<!-- ===================== TAGLINE ===================== -->
+<h3 align="center">
+🐍 Python Developer | 🤖 Python Full Stack Developer | 💻 Software Engineer
+</h3>
+
+<!-- ===================== RIGHT GIF ===================== -->
+<img 
+  align="right" 
+  width="360" 
+  src="https://github.com/itskashfur/itskashfur/raw/main/GIF.gif" 
+/>
+
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 Professional Summary
+
+🎓 **Computer Science Graduate**  
+📍 Hyderabad, India  
+
+Motivated Software Engineer with strong foundations in **Python, AI, Computer Vision, Data Science, and Web Development**.  
+Experienced in building practical systems focused on automation, efficiency, and scalability.
+
+Focused on continuous learning, disciplined execution, and real-world problem solving.
+
+🌐 Portfolio:&nbsp; &nbsp; <a href="https://itskashfur.netlify.app">Itskashfur</a>  
+📄 Resume:&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit">View RESUME</a>  
+📝 Blog:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://kashfurrahman.blogspot.com/">My Blog</a>  
+📬 Email:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="mailto:itskashfur@gmail.com">Mail-Me</a>
+<br clear="right"/>
+
+---
+
+## 🎯 Career Objective
+
+To contribute as a Software Engineer in a growth-oriented organization by leveraging strong technical skills, problem-solving ability, and passion for building high-impact systems.
+
+---
+
+## 🧠 Core Competencies
+
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- RESTful APIs  
+- Machine Learning Fundamentals  
+- Computer Vision  
+- Database Design  
+- Version Control  
+- System Debugging  
+- Technical Documentation  
+
+---
+
+## 🧰 Technical Skills
+
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql"/>
+</p>
+
+### 🌐 Web & Frameworks
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+</p>
+
+---
+
+## 🚀 Featured Projects (Proof of Work)
+
+> These projects demonstrate real-world application of engineering principles.
+
+<img height="250px" width="250px" align="right" alt="Image" src="https://www.lystloc.com/blog/wp-content/uploads/2022/11/ezgif.com-gif-maker-6.webp"/>
+
+### 📌 1. Automated Attendance System (OpenCV)
+🔹 Face recognition-based attendance  
+🔹 Real-time camera processing  
+🔹 Data storage & reporting  
+
+**Tech:** Python, OpenCV, NumPy, SQLite  
+
+👉 Repo: https://github.com/itskashfur/attendance-system
+
+---
+
+### 📌 2. Grocery Delivery Web App
+
+🔹 Full-stack ordering system  
+🔹 Payment & tracking  
+🔹 Admin dashboard  
+
+**Tech:** Django, React, MongoDB, Stripe  
+
+👉 Repo: https://github.com/itskashfur/grocery-app
+
+---
+
+### 📌 3. AI Chatbot for Student Support
+
+🔹 NLP-based responses  
+🔹 FAQ automation  
+🔹 Context handling  
+
+**Tech:** Python, NLP, Flask  
+
+👉 Repo: https://github.com/itskashfur/ai-chatbot
+
+---
+
+### 📌 4. Python Learning Repository
+
+🔹 Structured learning modules  
+🔹 Practice problems  
+🔹 Algorithm implementations  
+
+**Tech:** Python  
+
+👉 Repo: https://github.com/itskashfur/python-learning
+
+---
+
+## 📚 Academic & Learning Journey
+
+- Completed B.Tech/B.E in Computer Science  
+- Regular practice on LeetCode & HackerRank  
+- Built 15+ mini-projects  
+- Self-studied AI, ML, and Data Science  
+- Contributor to open-source learning repos  
+
+---
+
+## 🏆 Achievements
+
+- Solved 300+ coding problems  
+- Developed multiple end-to-end systems  
+- Internship & academic projects completed  
+- Strong academic performance  
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- <p>
+<img src="https://github-readme-stats.vercel.app/api?username=itskashfur&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskashfur&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p> -->
+
+---
+
+## 📈 Contribution Activity
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskashfur&theme=react-dark)
+---
+
+## 💡 Engineering Philosophy
+
+> “Build systems that are understandable, maintainable, and impactful.”  
+> “Code is a responsibility, not just a solution.”
+
+---
+
+## 🤝 Professional Profiles
+
+<p align="center">
+
+<a href="https://linkedin.com/in/itskashfur">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/itskashfur/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/itskashfur">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:itskashfur@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 🧠 Personal Traits
+
+- High learning velocity  
+- Detail-oriented  
+- Growth mindset  
+- Strong ownership  
+- Team player  
+
+---
+
+⭐ Thank you for visiting.  
+Let’s build meaningful software that lasts.
