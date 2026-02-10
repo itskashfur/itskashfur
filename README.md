@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kashfur+Rahman;Python+Developer+%7C+Python+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 <!-- ===================== BANNER ===================== -->
-![Code Animation](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
+<img align="center" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="banner"/>
 <p align="center">
     <a href="https://github.com/">
         <img src="https://komarev.com/ghpvc/?username=itskashfur" alt="Kashfur Rahman" />
