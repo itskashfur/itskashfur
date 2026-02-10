@@ -43,8 +43,8 @@ Experienced in building practical systems focused on automation, efficiency, and
 
 Focused on continuous learning, disciplined execution, and real-world problem solving.
 
-🌐 Portfolio:&nbsp; &nbsp; <a href="https://itskashfur.netlify.app">Itskashfur</a>  
-📄 Resume:&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit">View RESUME</a>  
+🌐 Portfolio:&nbsp; &nbsp;<a href="https://itskashfur.netlify.app">Itskashfur</a>  
+📄 Resume:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit">View RESUME</a>  
 📝 Blog:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://kashfurrahman.blogspot.com/">My Blog</a>  
 📬 Email:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="mailto:itskashfur@gmail.com">Mail-Me</a>
 <br clear="right"/>
