@@ -35,7 +35,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 Professional Summary
 
-🎓 **Computer Science Graduate**  
+🎓 **Computer Science Graduate** from **Osmania University**  
 📍 Hyderabad, India  
 
 Motivated Software Engineer with strong foundations in **Python, AI, Computer Vision, Data Science, and Web Development**.  
