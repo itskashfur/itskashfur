@@ -61,7 +61,7 @@ To contribute as a Software Engineer in a growth-oriented organization by levera
 
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
-- RESTful APIs  
+- Data Science Libraries
 - Machine Learning Fundamentals  
 - Computer Vision  
 - Database Design  
