@@ -4,13 +4,13 @@
 <!-- ===================== BANNER ===================== -->
 <img align="center" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="banner"/>
 <p align="center">
-    <a href="https://github.com/">
+    <a href="https://github.com/itskashfur">
         <img src="https://komarev.com/ghpvc/?username=itskashfur" alt="Kashfur Rahman" />
     </a>
-    <a href="https://github.com/jaydeep-yadav">
+    <a href="https://github.com/itskashfur">
         <img height="20" src="https://img.shields.io/github/followers/itskashfur?label=follow&logo=github" />
 	</a>
-	 <a href="https://github.com/jaydeep-yadav">
+	 <a href="https://github.com/itskashfur">
         <img height="20" src="https://img.shields.io/github/stars/itskashfur?label=stars&logo=github" />
 	</a>
 </p>
