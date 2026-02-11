@@ -113,6 +113,7 @@ To contribute as a Software Engineer in a growth-oriented organization by levera
 
 👉 Repo: https://github.com/itskashfur/attendance-system
 
+<!--
 ---
 
 ### 📌 2. Grocery Delivery Web App
@@ -124,7 +125,7 @@ To contribute as a Software Engineer in a growth-oriented organization by levera
 **Tech:** Django, React, MongoDB, Stripe  
 
 👉 Repo: https://github.com/itskashfur/grocery-app
-
+-->
 ---
 
 ### 📌 3. AI Chatbot for Student Support
