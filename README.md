@@ -226,5 +226,5 @@ To contribute as a Software Engineer in a growth-oriented organization by levera
 
 ---
 
-⭐ Thank you for visiting.  
+⭐ Thank you for visiting ¥.  
 Let’s build meaningful software that lasts.
