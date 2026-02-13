@@ -153,77 +153,54 @@ To contribute as a Software Engineer in a growth-oriented organization by levera
 ---
 
 ## 📚 Academic & Learning Journey
-
 - Completed B.Tech/B.E in Computer Science  
 - Regular practice on LeetCode & HackerRank  
 - Built 15+ mini-projects  
 - Self-studied AI, ML, and Data Science  
 - Contributor to open-source learning repos  
-
 ---
-
 ## 🏆 Achievements
-
 - Solved 300+ coding problems  
 - Developed multiple end-to-end systems  
 - Internship & academic projects completed  
 - Strong academic performance  
-
 ---
-
-
-
 <!-- <p> ## 📊 GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=itskashfur&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskashfur&layout=compact&theme=dark&hide_border=true" width="48%"/>
-</p> -->
-
+</p> 
 ---
-
+-->
 ## 📈 Contribution Activity
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=itskashfur&theme=react-dark)
 ---
-
 ## 💡 Engineering Philosophy
-
 > “Build systems that are understandable, maintainable, and impactful.”  
 > “Code is a responsibility, not just a solution.”
-
 ---
-
 ## 🤝 Professional Profiles
-
 <p align="center">
-
 <a href="https://linkedin.com/in/itskashfur">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://leetcode.com/itskashfur/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
 </a>
-
 <a href="https://github.com/itskashfur">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 <a href="mailto:itskashfur@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-
 </p>
 
 ---
-
 ## 🧠 Personal Traits
-
 - High learning velocity  
 - Detail-oriented  
 - Growth mindset  
 - Strong ownership  
 - Team player  
-
 ---
 
 ⭐ Thank you for visiting ¥.  
