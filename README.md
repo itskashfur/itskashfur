@@ -206,12 +206,12 @@ To contribute as a Software Engineer in a growth-oriented organization by levera
 ⭐ Thank you for visiting ¥.  
 Let’s build meaningful software that lasts.
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itskashfur/itskashfur/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itskashfur/itskashfur/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itskashfur/itskashfur/output/pacman-contribution-graph.svg">
 </picture>
-
+ -->
 
 
 
