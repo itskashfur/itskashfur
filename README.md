@@ -14,7 +14,6 @@
         <img height="20" src="https://img.shields.io/github/stars/itskashfur?label=stars&logo=github" />
 	</a>
 </p>
-
 <!-- ===================== TYPING INTRO ===================== -->
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Kashfur+Rahman;Software+Engineer+|+Python+Developer+|+AI+Explorer;Building+Scalable+and+Meaningful+Systems;Focused+on+Growth+and+Impact" />
@@ -36,7 +35,7 @@
 ## 👨‍💻 Professional Summary
 
 🎓 **Computer Science Graduate** from **Osmania University**  
-📍 Hyderabad, India  
+📍 Hyderabad, India
 
 Motivated Software Engineer with strong foundations in **Python, AI, Computer Vision, Data Science, and Web Development**.  
 Experienced in building practical systems focused on automation, efficiency, and scalability.
