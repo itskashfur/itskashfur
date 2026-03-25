@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kashfur+Rahman;Python+Developer+%7C+Python+Full+Stack+Developer" alt="Typing SVG" />
 </p>
+
 <!-- ===================== BANNER ===================== -->
 <img align="center" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="banner"/>
 <p align="center">
@@ -14,6 +15,7 @@
         <img height="20" src="https://img.shields.io/github/stars/itskashfur?label=stars&logo=github" />
 	</a>
 </p>
+
 <!-- ===================== TYPING INTRO ===================== -->
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Kashfur+Rahman;Software+Engineer+|+Python+Developer+|+AI+Explorer;Building+Scalable+and+Meaningful+Systems;Focused+on+Growth+and+Impact" />
