@@ -37,7 +37,7 @@
 ## 👨‍💻 Professional Summary
 
 🎓 **Computer Science Graduate** from **Osmania University**  
-📍 Hyderabad, India
+📍 Hyderabad, India <br>
 😁 Fouder & CEO - [CoadWoad](https://www.instagram.com/coadwoad)
 
 Motivated Software Engineer with strong foundations in **Python, AI, Computer Vision, Data Science, and Web Development**.  
