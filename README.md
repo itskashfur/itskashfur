@@ -181,13 +181,11 @@ class KashfurRahman:
 </div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itskashfur&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
-
 ---
 
 ## 💬 Philosophy
