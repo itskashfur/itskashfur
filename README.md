@@ -19,9 +19,7 @@
 [![Resume](https://img.shields.io/badge/📄_Resume-View_Now-22C55E?style=for-the-badge&labelColor=0D1117)](https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit)
 
 <img src="https://komarev.com/ghpvc/?username=itskashfur&color=00F7FF&style=flat-square&label=Profile+Views" />
-
 </div>
-
 ---
 
 ## ⚡ Who Am I?
