@@ -213,6 +213,6 @@ If you're looking for a passionate developer who ships **real solutions** — le
 
 <br/>
 
-**⭐ If my work impresses you — drop a star! It means the world. 🌍**
+**⭐ If my work impresses you — drop a star! It means the world. 🌍😁**
 
 </div>
