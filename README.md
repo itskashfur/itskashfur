@@ -35,10 +35,10 @@ class KashfurRahman:
     company     = "Founder & CEO @ CoadWoad"
     
     skills = {
-        "languages"  : ["Python 🐍", "Java", "C#", "SQL"],
+        "languages"  : ["Python", "Java", "C#", "SQL"],
         "web"        : ["Flask", "Django", "React", "HTML5", "CSS3"],
-        "ai_ml"      : ["Computer Vision", "NLP", "Machine Learning", "OpenCV"],
-        "tools"      : ["Git", "Docker", "GitHub Actions", "SQLite", "MongoDB"],
+        "AI_ML"      : ["Computer Vision", "NLP", "Machine Learning", "OpenCV"],
+        "Tools"      : ["Git", "Docker", "GitHub Actions", "SQLite", "MongoDB"],
     }
 
     superpower   = "Turning complex problems into clean, scalable systems"
