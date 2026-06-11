@@ -212,6 +212,7 @@ If you're looking for a passionate developer who ships **real solutions** — le
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itskashfur@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kashfurrahman.blogspot.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=netlify&logoColor=black)](https://itskashfur.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itskashfur)
 
 <br/>
 
