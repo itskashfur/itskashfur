@@ -32,7 +32,7 @@ class KashfurRahman:
     role        = "Python Full Stack Developer & AI Engineer"
     location    = "Hyderabad, India 🇮🇳"
     education   = "B.Tech Computer Science — Osmania University"
-    company     = "Founder & CEO @ CoadWoad"
+    company     = "Founder & CEO @CoadWoad @KAEZYTgames"
     
     skills = {
         "languages"  : ["Python", "Java", "C#", "SQL"],
