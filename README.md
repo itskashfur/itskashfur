@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-itskashfur.netlify.app-00F7FF?style=for-the-badge&labelColor=0D1117)](https://itskashfur.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00F7FF?style=for-the-badge&labelColor=001111)](https://itskashfur.netlify.app)
 [![Email](https://img.shields.io/badge/📫_Email-itskashfur@gmail.com-FF4C4C?style=for-the-badge&labelColor=0D1117)](mailto:itskashfur@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/itskashfur)
 [![Resume](https://img.shields.io/badge/📄_Resume-View_Now-22C55E?style=for-the-badge&labelColor=0D1117)](https://docs.google.com/document/d/1bFilCf4XhTthP3h3HpXh7jBXvQcRZCGxb0iZwO4txw8/edit)
