@@ -212,7 +212,5 @@ If you're looking for a passionate developer who ships **real solutions** — le
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itskashfur)
 
 <br/>
-
 **⭐ If my work impresses you — drop a star! It means a lot for me. 🌍😁**
-
 </div>
